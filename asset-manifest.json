@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Yuri-Lima.github.io/robotfriends/static/css/main.4b872bae.css",
+    "main.js": "/Yuri-Lima.github.io/robotfriends/static/js/main.bdeeaa9c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Yuri-Lima.github.io/robotfriends/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/SEGA.woff": "/Yuri-Lima.github.io/robotfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Yuri-Lima.github.io/robotfriends/index.html",
+    "main.4b872bae.css.map": "/Yuri-Lima.github.io/robotfriends/static/css/main.4b872bae.css.map",
+    "main.bdeeaa9c.js.map": "/Yuri-Lima.github.io/robotfriends/static/js/main.bdeeaa9c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Yuri-Lima.github.io/robotfriends/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b872bae.css",
+    "static/js/main.bdeeaa9c.js"
+  ]
+}
